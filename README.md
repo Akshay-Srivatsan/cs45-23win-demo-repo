@@ -12,3 +12,17 @@ I'm a ________________ major.
 
 In my free time, I like to ______________.
 I also enjoy ______ and ___________.
+
+# My Favorite Things
+
+## Colors
+
+* _______
+* _______
+* _______
+
+## Places on Campus
+
+* _______
+* _______
+* _______
