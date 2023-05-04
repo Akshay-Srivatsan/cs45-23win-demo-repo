@@ -1,28 +1,28 @@
 # About Me
 
-Hello, my name is _______!
+Hello, my name is Akshay Srivatsan!
 
 # My Education
 
-I'm a student at ________.
-I'm currently a [frosh/sophmore/junior/senior/grad student].
-I'm a ________________ major.
+I'm a student at Stanford University.
+I'm currently a grad student.
+I'm a Computer Science major.
 
 # My Hobbies
 
-In my free time, I like to ______________.
-I also enjoy ______ and ___________.
+In my free time, I like to take photographs.
+I also enjoy learning languages and social dance.
 
 # My Favorite Things
 
 ## Colors
 
-* _______
-* _______
-* _______
+* red
+* green
+* blue
 
 ## Places on Campus
 
-* _______
-* _______
-* _______
+* Law School Terraces
+* Gates
+* Huang
